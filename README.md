@@ -1,4 +1,5 @@
 HimSan - Tvättstuga
+
 HimSan är ett projekt skapat med React Native för mobilapplikationer och Express.js för backend, med en MySQL-databas för att hantera data. Detta projekt är utformat för att hjälpa användare att boka och hantera tvättider i en tvättstuga. Vänligen observera att projektet fortfarande är under utveckling och inte är helt klart.
 
 Funktioner
